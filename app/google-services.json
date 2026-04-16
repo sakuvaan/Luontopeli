@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140568517527",
+    "project_id": "luontopeliapp-48952",
+    "storage_bucket": "luontopeliapp-48952.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140568517527:android:cdf1cad6ffad1a07a382d2",
+        "android_client_info": {
+          "package_name": "com.example.luontopeli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVcp7fQQaxQAQMKz3R6rqjLDl-0kzWcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140568517527:android:34175946b1ef9be2a382d2",
+        "android_client_info": {
+          "package_name": "com.example.luontopeli.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVcp7fQQaxQAQMKz3R6rqjLDl-0kzWcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
